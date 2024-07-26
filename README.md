@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-Storing files and data for Modeul 21 deep learning challenge
+Storing files and data for Module 21 deep learning challenge
 
 Code was created in and should be run in Google Colab. The csv file referenced exists there. 
 
