@@ -4,7 +4,7 @@ Storing files and data for Module 21 deep learning challenge
 
 Code was created in and should be run in Google Colab. The csv file referenced exists there. 
 
-Final code is included in the file called 'Alphabet_soup_predictor.ipynb
+Final code is included in the files called 'AlphabetSoupCharity.ipynb and 'AlphabetSoupCharity_Optimization.ipynb'
 
 Starter code is also included 
 
